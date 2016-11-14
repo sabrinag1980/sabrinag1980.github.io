@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      header{
+        height:10vh;
+        background-color:rgb(172,211,115);
+      }
+      #logo{
+        height:7vh;
+        margin:5vw;
+      }
+      nav{
+        height: 10vh; 
+      }
+      nav a{
+        color: white;
+        height: 4vh;
+        vertical-align: center;
+        
+      }
+    </style>
+    <title>Sixteen Creative Agency</title>
+  </head>
+  <body>
+    <header>
+      <div>
+        <img id="logo" src="1logo.png" />
+      </div>
+      <nav>
+        <div>
+          <img id="menu" src="2icon.png" />
+        </div>
+      </nav>
+    </header>
+    <div>
+      <br/>
+      <h1>WE ARE SIXTEEN CREATIVE AGENCY</h1>
+        <h2>Based on Jakarta, Indonesia</h2>
+        <br/>
+        <img id="arrow" src="3arrow.png"/>
+    </div>    
+      <div>
+    <footer>
+      <img id="siluet" src="4siluetBG.png"/>
+    </footer>
+    </div>
+    
+  </body>
+  
+  
+</html>
